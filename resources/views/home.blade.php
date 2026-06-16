@@ -15,7 +15,7 @@
     <meta name="author" content="">
 
     <!-- Site Icons -->
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="assets/images/profile-icon.ico" type="image/x-icon" />
     <link rel="apple-touch-icon" href="assets/images/profile-icon.png">
 
     <!-- Bootstrap CSS -->
