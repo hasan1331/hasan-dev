@@ -75,7 +75,7 @@
               <a class="nav-link js-scroll-trigger" href="#blog">Blog</a>
             </li>
 			<li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#contact">Contect Us</a>
+              <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
             </li>
           </ul>
         </div>
@@ -124,16 +124,41 @@
         </path>
     </svg>
 
+    <style>
+        .about-text {
+            text-align: justify !important;
+            line-height: 1.8 !important;
+            letter-spacing: 0.3px !important;
+            font-family: 'Inter', sans-serif !important;
+            font-size: 16px !important;
+            line-height: 1.8 !important;
+            letter-spacing: 0.2px !important;
+        }
+    </style>
+
     <div id="about" class="section wb">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <div class="message-box">                        
                         <h2>About</h2>
-                        <p> Integer rutrum ligula eu dignissim laoreet. Pellentesque venenatis nibh sed tellus faucibus bibendum. Sed fermentum est vitae rhoncus molestie. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo. </p>
-						<p>Sed vitae rutrum neque. Ut id erat sit amet libero bibendum aliquam. Donec ac egestas libero, eu bibendum risus. Phasellus et congue justo.</p>
+                        <p class="about-text"> 
+                            I am a Web Developer and ERP System Specialist focused on creating efficient digital solutions for 
+                            business needs. I specialize in developing web applications, customizing ERP systems, and improving 
+                            business processes through technology. With experience in Laravel, PHP, JavaScript, React, Bootstrap, 
+                            and Tailwind CSS, I build scalable applications with clean code and user-friendly interfaces. 
+                            I enjoy solving complex problems and transforming business requirements into effective software 
+                            solutions.
+                        </p>
+						<p class="about-text">
+                            I am passionate about creating technology solutions that simplify business processes and improve 
+                            productivity. I combine technical expertise with business understanding to develop applications 
+                            that are not only functional but also aligned with real-world needs.
+                        </p>
 
-                        <a href="#" class="sim-btn btn-hover-new" data-text="Download CV"><span>Download CV</span></a>
+                        <a href="https://wa.me/6281219504780?text=Halo%20Hasan,%20saya%20tertarik%20dengan%20portfolio%20Anda.%20Saya%20ingin%20meminta%20CV%20terbaru." target="_blank" class="sim-btn btn-hover-new" data-text="Request CV">
+                            <span>Request CV</span>
+                        </a>
                     </div><!-- end messagebox -->
                 </div><!-- end col -->
 
@@ -150,7 +175,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Services</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <!-- <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p> -->
             </div><!-- end title -->
 
             <div class="row">
@@ -216,7 +241,7 @@
 		<div class="container">
 			<div class="section-title text-left">
                 <h3>Portfolio</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <!-- <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p> -->
             </div><!-- end title -->
 			
 			<div class="gallery-menu row">
@@ -293,7 +318,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Testimonials</h3>
-                <p>We thanks for all our awesome testimonials! There are hundreds of our happy customers! </p>
+                <!-- <p>We thanks for all our awesome testimonials! There are hundreds of our happy customers! </p> -->
             </div><!-- end title -->
 
             <div class="row">
@@ -384,7 +409,7 @@
 		<div class="container">
 			<div class="section-title text-left">
                 <h3>Blog</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <!-- <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p> -->
             </div><!-- end title -->
 			
 			<div class="row">
@@ -457,7 +482,7 @@
         <div class="container">
             <div class="section-title text-left">
                 <h3>Contact</h3>
-                <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p>
+                <!-- <p>Quisque eget nisl id nulla sagittis auctor quis id. Aliquam quis vehicula enim, non aliquam risus.</p> -->
             </div><!-- end title -->
 
             <div class="row">
@@ -511,7 +536,7 @@
                         <a href="#">Faq</a>
                         <a href="#">Contact</a>
                     </p>
-                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">Dominic</a> Design By : 
+                    <p class="footer-company-name">All Rights Reserved. &copy; 2018 <a href="#">hasan-dev</a> Design By : 
 					<a href="https://html.design/">html design</a></p>
                 </div>
             </div>
